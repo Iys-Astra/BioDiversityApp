@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".faunaActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="3dp">
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fauna_in_the_region"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#039BE5"
+                android:textSize="34sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/fauna_intro"
+                android:textColor="#DD2C00"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/animals"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#039BE5"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/the_most_common_animals_found_in_uttarakhand_are_wild_sheep_goat_oxen_antelopes_and_butterflies_but_rare_and_endangered_animals_such_as_musk_deer_snow_leopard_ghorals_and_monal_are_also_found_here"
+                android:textColor="#DD2C00"
+                android:textSize="18sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/muskdeer"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/musk_deer_state_animal_of_uttarakhand"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/bharal"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/bharal"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/sambar"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/sambar"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/tiger"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/royal_bengal_tiger"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/serow"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/serow"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/birds"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#039BE5"
+                android:layout_marginTop="20dp"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/intro_birds"
+                android:textColor="#DD2C00"
+                android:textSize="18sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/monal"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/monal_state_bird_of_uttarakhand"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/green_bee_eater"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/green_bee_eater"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/grey_hornbill"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/grey_hornbill"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/black_drongo"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/black_drogo"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/pied_heron"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/pied_heron"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/spotted_dove"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/spotted_dove"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/bar_tailed_treecreeper"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/bar_tailed_treecreeper"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/green_backed_tit"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/green_backed_tit"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/green_tailed_sunbird"
+                android:contentDescription="@string/musk_deer_in_the_wild"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/green_tailed_sunbird"
+                android:textAlignment="center"
+                android:textColor="#DD2C00"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/btFaunaToHome"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/home" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">bioDIiversityOfUttarakhandMiniProject</string>
+    <string name="first_logo">First Page logo Image</string>
+    <string name="login_register">" To Login or Register click here"</string>
+    <string name="to_login_or_register_click_here">To Login or Register click here</string>
+    <string name="to_see_a_preface_click_here">To see a preface click here</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="enter_your_email_here">Enter your email here</string>
+    <string name="enter_your_password_here">Enter your password here</string>
+    <string name="login">Login</string>
+    <string name="already_registered_click_here_to_login">Already registered? Click here to Login</string>
+    <string name="uttarakhand_bio_diversity_application">Uttarakhand Bio Diversity Application</string>
+    <string name="home">Home</string>
+    <string name="preface">Preface</string>
+    <string name="about_uttarakhand">About Uttarakhand</string>
+    <string name="infoAbout_uttrakhand">Uttarakhand was formed on the 9th November 2000 as the 27th State of India, when it was carved out of northern Uttar Pradesh. Located at the foothills of the Himalayan mountain ranges, it is largely a hilly State, having international boundaries with China (Tibet) in the north and Nepal in the east. On its north-west lies Himachal Pradesh, while on the south is Uttar Pradesh. It is rich in natural resources especially water and forests with many glaciers, rivers, dense forests and snow-clad mountain peaks. Char-dhams, the four most sacred and revered Hindu temples of Badrinath,Kedarnath, Gangotri and Yamunotri are nestled in the mighty mountains. It’s truly God’s Land (Dev Bhoomi). Dehradun is the Capital of Uttarakhand. It is one of the most beautiful resort in the submountain tracts of India, known for its scenic surroundings. The town lies in the Dun Valley, on the watershed of the Ganga and Yamuna rivers. \n \n It is blessed with a rare bio-diversity, inter-alia, 175 rare species of aromatic and medicinal plants are found in the State. It has almost all major climatic zones, making it amenable to a variety of commercial opportunities in horticulture, floriculture and agriculture. It has a vast tourism potential in adventure, leisure, and eco-tourism. \n \n The State is rich in mineral deposits like limestone, marble, rock phosphate, dolomite, magnesite, copper, gypsum, etc. The number of small scale industries is 25,294 providing employment to 63,599 persons. As many as 1802 heavy and medium industries with an investment of Rs 20,000 crore employ 5 lakh persons. Most of the industries are forest-based. There is a total of 54,047 handicraft units in the state. </string>
+
+    <string name="register">Register</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="submit">Submit</string>
+    <string name="login_page">Login Page</string>
+    <string name="not_registered_click_here_to_login">Not Registered? Click here to login</string>
+    <string name="already_registered_login_here">Already registered? Login here</string>
+    <string name="email">Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="logout">Logout</string>
+
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+
+
+    <string name="already_registered_login_page_here">Already Registered?? Login Page here</string>
+    <string name="register_here">Register Here</string>
+    <string name="images">Images</string>
+    <string name="todo">TODO</string>
+    <string name="oo">TODO</string>
+    <string name="map_image_value">Map</string>
+    <string name="fauna_in_the_region">Fauna in the region</string>
+    <string name="flora_in_the_region">Flora in the region</string>
+    <string name="map_of_the_region">Map of the region</string>
+    <string name="title_activity_images_page">ImagesPage</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="uttarakhand_map">Uk Map</string>
+    <string name="image9">image9</string>
+    <string name="image8">image8</string>
+    <string name="image7">image7</string>
+    <string name="image6">image6</string>
+    <string name="image5">image5</string>
+    <string name="image4">image4</string>
+    <string name="image3">image3</string>
+    <string name="image2">image2</string>
+    <string name="image1">image</string>
+    <string name="flora_meaning">The word flora refers to the plants occurring within a given region as well as to the publication of scientific descriptions of those plants. In order to distinguish between the two, the word is often capitalized when a publication is meant. A Flora may contain anything from a simple list of the plants occurring in an area to a very detailed account of those plants. Floras are different from popular manuals in that they attempt to cover all of the plants, rather than only the most common or conspicuous ones.</string>
+    <string name="what_is_flora">what is flora?</string>
+    <string name="uttarakhand_flora">Uttarakhand comprises of 13 districts spreading over an area of 51,082 sq km, Floristically, it falls under the west Himalayan Biogeography zone and it is well-known for floral diversity similar to any other Himalayan region in the country with an estimated 4,000 species of flowering plants having great economic medicinal, aromatic and artistic value. The endemic plant wealth of Uttarakhand is worth mentioning as it ultimately forms part of the National heritage. Uttarakhand Himalayas have about 116 species asindigenous group. Are <i>naria ferruginea; Chimonobambusa jaunsarensis, Gentian tetrasepala, G. saginoides, Meeboldia solenoids, Microschoenus duthiei, Trachycarpus takil, Poa rhadina</i>, etc are some such species. Some of the most prominent flora in Uttarakhand are \n\n
+    In Floral diversity point of view, Uttarakhand falls under the West Himalayan Biogeographic
+zone, situated in the lap of the Himalaya their region is rich in forest wealth that ranges from
+subtropical to Alpine types.The flora and vegetation of the state ranges from tropical deciduous
+to alpine vegetation; broadly catagorised into three mazor types:\n\n
+        <b> 1. Sub-Tropical Zone of Uttarakhan</b>\n
+        The sub-tropical zone has pure as well as mixed forests of Shore Robusta (Sa I), the others
+being Lannea coromandelica (Jhingan), Buchanania lanzan,
+Dalbergia disso (Shisham), Haldina cordifolia (Haldu),
+Syzygium cumini (Jamun), Mallotus philippinensis (Rohini),
+Mitragyna parvifolia, Terminalia spp. (Myrobalans), Ficus spp.
+(Figs), Macaranga pustulata, Callicarpa arborea,
+Diopoknema butyracea (Chyura), Bauhinia variegate
+(Kachnar), Bomb ax cobia (Semal), Lydia claying (Pula),
+Schleicher oleos (Kokum), Holoptelea integrities (Karanj),
+Cassia fistula (Amaltas), Nyctanthes arbor-tristis (Parijat),
+Anogeissus latifolia (Bakli, Dhaura), etc. The shrubby vegetation is represented by Murraya
+koenigii, Carissa opaca, Clerodendrum viscous, Adhatoda vasica, Jasminum multiflorum, Solanum
+erianthum, Cal/icarpa macrophylla, Eranthemum nervosum, Phlogacanthus thyrsiformis, Jatropha
+curcas, Rhus parviflora, Dodonaea viscosa, Woodfordia fruticosa and many others.\n\n
+
+        <b> 2. Temperate Zone of Uttarakhand</b>\n
+        The Temperate zone is marked by the presence of Quercus
+leucotrichophora (Banj oak), Rhododendron arboretum (Burans), Myrica
+esculent a (Kaphal), Leonia ovalifolia (Aynor), Ibex dipyrena, Quercus
+semecarpifolia (Kharsu Oak), Q. dilatata (Moru Oak), etc. The coniferous
+forests in this zone are unique. Pure stands of Pinus roxburghii (Chir Pine)
+and Cadres deodar (Deodar, Cedar), Abides windrow (Raga), Pinus
+wal/ichiana (Kail), Taxus wal/ichiana (Thuner, Himalayan Yew) at places
+give a pristine look to the slopes. The slopes in temperate zone also have
+insectivorous plants like Drosera peltata and species of Utricularia. Another
+such species is Pinguicula alpina seen in Martoli Bugyal, Kumaon. The
+Saprophytes and Parasites are also well represented by Monotropa
+unit/ora, Dendrophthoe falcata (Banda), Balanophora in volucrata, and
+species of Viscum, Korthalsella, Arceuthobium, Scurrula, etc. The zone has a
+variety of useful plants, some of them well known for centuries. These include Cedrus deodar a,
+Pinus spp., Abies pindrow, Quercus spp., Aconitum heterophyllum, Paeonia emodi, Swertia
+chirayita, Bergenia ciliata, Dioscorea deltoidea, Angelica glauca (Choru), etc. \n\n
+
+        <b> 3. Sub-Alpine and Alpine Zones of Uttarakhand</b>\n
+        The altitude above 3,000 metres is generally considered a zone of sub-alpine and alpine
+vegetation. The tree species are represented by Pinus wallichiana,
+Abies pindrow, Prunus cornuta, Acer caesium, Betula utilis (Bhoj Patra)
+and Salix sp. Species of the genera Cotoneaster, Rosa, Berberis,
+Ribes, Junipers, Rhododendron anthropogenic, Rhododendron
+campanulas are the shrubby components of the zone. The herbaceous
+vegetation is represented by a number of species of genera Po
+ten till, Primula, Aster, Saxifrage, Achaean, Delphinium,
+Polygonal,Corydalis, Pleurospermum, Meconopsis, Pedicularis,
+Saussurea, Rheum, Silene, etc. The Bugyals of this zone are well
+known for a rich and diversified flora. Plant species like
+Nardostachys grand flora (Jatamansi), Podophyllum hexandrum
+(Himalayan May-Apple, Papri), Picrorhiza kurrooa (Kutaki), Gentian
+burro, Armenia benthonic (Bal char), Rheum moorcroftianum
+(Dole), Ephedra gerardiana, Dactylorhiza hatagirea (Hatthajari), etc., common in this zone, are
+of immense medicinal value.
+    </string>
+    <string name="flora_in_uttarakhand">Flora in uttarakhand</string>
+    <string name="state_flower_of_uttarakhand">State Flower of Uttarakhand</string>
+    <string name="state_flower">Brahma Kamal, the state flower of Uttarakhand in India is one of the most famous flowers seen in the Himalayas. It is scientifically known as Saussurea obvallata which comes under Sunflower family, Asteraceae. This flower is the best example of the flowers and plant life in the alpine habitats at the upper reaches of the mountain ranges.
+
+
+        <b><i>Saussurea obvallata</i></b>is a species of flowering plant in the Asteraceae. It is native to the Himalayas and Uttarakhand, India, northern Burma and southwest China. In the Himalayas, it is found at an altitude of around 4500 meters. It is the state flower of Uttarakhand. Saussurea obvallata is a perennial growing to 0.3 m (1 feet). The plant is small perennial herb growing up to 60 cm high. The flowers are hermaphrodite (have both male and female organs) and are pollinated by insects. Flowers bloom in mid-monsoon (July–August-September) among-st the rocks and grasses of the hillside at an attitudinal range of 3000–4800 meters.</string>
+    <string name="etrass_flora">
+        Rhododendron arboreum, the tree rhododendron, is an evergreen shrub or small tree with a showy display of bright red flowers. It is found in Bhutan, China, India, Myanmar, Nepal, Sri Lanka, Pakistan and Thailand. It is the national flower of Nepal. In India it is the state tree of Uttarakhand and state flower of Nagaland.
+    </string>
+    <string name="intro_birds">Uttarakhand boost more than 600 bird species due to its rich biodiversity. Uttarakhand has the temperate forest, coniferous forest, alpine and subalpine moist scrub, rich grassland, wetland and rivers which spur various bird species in an almost entire region; however, there are some recognized birding places in Uttarakhand. The pre-eminent Uttarakhand birding watching regions are Corbett National Park, Rajaji National Park, Kedarnath Musk Deer Sanctuary, Mussorie-Aglar Valley – Devalsari-Dhanaulti, Nainital-Sattal-Kilbury-Pangot, Almora-Binsar-Mukteshwar, Munsyari –Askot Wildlife sanctuary.</string>
+    <string name="fauna_intro">A total of 4907 faunal species have been reported which include 3948 invertebrate fauna and  959 vertebrate fauna.Their fauna exhibits an admixture of Oriental, Palaerectic and Ind and Malayan elements. It is home to many endemic and threatened species of both vertebrates and
+invertebrates/n/n The fauna can be categorised into two major sub categories\n 1.<i>Animals</i> 2.<i>Birds</i>
+        Bird watching is one of the most popular recreation activities that include wildlife observation. Avid birdwatchers spot and document various species of birds by listening for bird sounds as many bird species are more easily detected and identified by ear than by eye. Bird watching in Uttarakhand can be done with the naked eye or through visual enhancement devices like binoculars or telescopes.
+</string>
+    <string name="state_tree_of_uttarakhand">State tree of Uttarakhand</string>
+    <string name="fauna">Fauna</string>
+    <string name="flora_home">Home</string>
+    <string name="fauna_introduction">Fauna in the region</string>
+    <string name="animals">Animals</string>
+    <string name="the_most_common_animals_found_in_uttarakhand_are_wild_sheep_goat_oxen_antelopes_and_butterflies_but_rare_and_endangered_animals_such_as_musk_deer_snow_leopard_ghorals_and_monal_are_also_found_here">The most common animals found in Uttarakhand are wild sheep, goat, oxen, antelopes and butterflies but rare and endangered animals such as Musk Deer, Snow Leopard, Ghorals and Monal are also found here.</string>
+    <string name="musk_deer_state_animal_of_uttarakhand">Musk Deer: State animal of Uttarakhand</string>
+    <string name="musk_deer_in_the_wild">Musk deer in the wild</string>
+    <string name="birds">Birds</string>
+    <string name="bharal">Bharal</string>
+    <string name="sambar">Sambar</string>
+    <string name="royal_bengal_tiger">Royal Bengal Tiger</string>
+    <string name="serow">Serow</string>
+    <string name="monal_state_bird_of_uttarakhand">Monal: state bird of uttarakhand</string>
+    <string name="green_bee_eater">Green bee eater</string>
+    <string name="grey_hornbill">Grey HornBill</string>
+    <string name="black_drogo">Black Drogo</string>
+    <string name="pied_heron">Pied Heron</string>
+    <string name="spotted_dove">Spotted Dove</string>
+    <string name="bar_tailed_treecreeper">Bar tailed treecreeper</string>
+    <string name="green_backed_tit">Green Backed Tit</string>
+    <string name="green_tailed_sunbird">Green Tailed Sunbird</string>
+    <string name="contents_front_page">Contents</string>
+    <string name="bio_reserves_in_uttrakhand">Bio Reserves in Uttrakhand</string>
+    <string name="image_of_brahmkamal_flora">Image</string>
+    <string name="to_add_a_review_about_the_app_click_the_text">To add a review about the app click the text</string>
+    <string name="enter_your_review">ENTER YOUR REVIEW</string>
+    <string name="valley_of_flowers_description">The Valley of Flowers trek is one of India’s most popular treks in the Himalayas. People who haven’t even stepped into the Himalayas, have heard about the Valley of Flowers trek.   But there is a solid reason behind Valley Of Flower’s legendary popularity – it is one of India’s oldest known treks.   In 1980, the Indian government created the Valley of Flowers National Park, and later in 2002, it was recognized as a UNESCO World Heritage Site. This pushed Valley of Flowers on the bucket list of trekkers from around the world.  Having said that, you must note that the Valley Of Flowers trek is not easy. It is a moderate level trek, with slightly longer trekking days and a steep ascent to Hemkund Sahib that will challenge your endurance. So, prepare well for this trek.
+    Valley of Flowers from Dehradun opens up in June for everyone till the first week of October. It brings forth the best monsoon beauty that you will ever come across. It caters to the best vacation commitments that you make for a trip. Despite the break from the routine, it renders to mental and emotional satisfaction. Just as it comes with a magnetizing name Valley of Flowers , it smells refreshing and is the best to visit during the monsoon months of July and August. It also has several tourist locations that are a must-visit if one comes to this flower basket.
+    Valley of flowers national park is located in Chamoli district in the state of Uttarakhand India. This is remotely located and it takes minimum 3 days to reach from Haridwar. The last motor-able point is Govindghat. Check our trek itinerary page for more day wise information. It is around 500 km from New Delhi and 300 km from Haridwar. Our page on how to reach, we have given distances between important points and time required between them, different modes of transportation available to reach here.
+        It is located 300 Kms North of Rishikesh, near Badrinath. You need to Travel by Road till Govindghat and from there the trek to Valley of Flowers starts. Govindghat is 20 Kms before Badrinath. Till Govidghat there is a motor-able Road, now you can drive upto Pulna village. Rishikesh is 6 Hours Drive from New Delhi, India.</string>
+    <string name="valley_of_flowers">Valley of flowers</string>
+</resources>

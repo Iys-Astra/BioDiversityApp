@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915458571812",
+    "project_id": "biodminiproject",
+    "storage_bucket": "biodminiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915458571812:android:2a33a49cfed1192c5a62b1",
+        "android_client_info": {
+          "package_name": "com.saneshistwal.biodiiversityofuttarakhandminiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915458571812-qj50jcuic6vj5r5hvim5kdf15gphlg68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1ArcNiq5OHa0hxbNc97jVqVH4AF5jJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915458571812-qj50jcuic6vj5r5hvim5kdf15gphlg68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

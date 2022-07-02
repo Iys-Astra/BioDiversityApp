@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout-v28/activity_flora.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_bio_reserves_page.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_browser_page.xml" value="0.232620320855615" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_custom_list.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_fauna.xml" value="0.17579908675799086" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_flora.xml" value="0.2" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_images.xml" value="0.2467948717948718" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_login_page.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_map.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_map2.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_preface.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_register_page.xml" value="0.264" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/activity_review.xml" value="0.240625" />
+        <entry key="..\:/AndroidBasicProjects/bioDIiversityOfUttarakhandMiniProject/app/src/main/res/layout/content_scrolling.xml" value="0.240625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

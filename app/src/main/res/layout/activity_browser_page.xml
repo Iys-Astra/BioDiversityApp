@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".browserPage">
+
+    <Button
+        android:id="@+id/btLogout"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:text="@string/logout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.949"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="669dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btLogout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView7"
+                style="@style/titles_style"
+                android:text="@string/map_of_the_region" />
+
+            <ImageView
+                android:id="@+id/ivMap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/map_image_value"
+                android:scaleType="fitStart"
+                app:srcCompat="@drawable/map11"
+                tools:ignore="ImageContrastCheck" />
+            <TextView
+                android:layout_marginTop="20dp"
+                android:id="@+id/textView8"
+                style="@style/titles_style"
+                android:text="@string/flora_in_the_region" />
+
+            <ImageView
+                android:id="@+id/ivFlora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/login_page"
+                android:scaleType="fitStart"
+                android:src="@drawable/new_flora_image" />
+            <TextView
+                android:layout_marginTop="20dp"
+                android:id="@+id/textView9"
+                style="@style/titles_style"
+                android:text="@string/fauna_in_the_region" />
+
+            <ImageView
+                android:id="@+id/ivFauna"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/muskdeer"
+                android:contentDescription="@string/oo" />
+            <TextView
+                android:layout_marginTop="20dp"
+                android:id="@+id/textView10"
+                style="@style/titles_style"
+                android:text="@string/images" />
+
+            <ImageView
+                android:id="@+id/ivImages"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/images_browser"
+                android:contentDescription="@string/todo" />
+            <TextView
+                android:layout_marginTop="20dp"
+                style="@style/titles_style"
+                android:text="@string/bio_reserves_in_uttrakhand" />
+
+            <ImageView
+                android:id="@+id/ivBioReserves"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/todo"
+                android:scaleType="fitStart"
+                android:src="@drawable/bio_diversity_reserves"
+                tools:ignore="ImageContrastCheck" />
+
+            <TextView
+                android:id="@+id/tvToRegisterPage"
+                style="@style/titles_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="#009688"
+                android:text="@string/to_add_a_review_about_the_app_click_the_text"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                tools:ignore="TextContrastCheck" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/contents_front_page"
+        android:textColor="#3F51B5"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/btLogout"
+        app:layout_constraintHorizontal_bias="0.19"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
